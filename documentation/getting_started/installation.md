@@ -11,3 +11,5 @@
 - **iOS**: версия 12.0 или выше.
 
 ![Экран входа](../assets/screenshots/Login.png)
+
+[На главную](../../README.md)

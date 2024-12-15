@@ -4,12 +4,12 @@
 Здесь вы найдете инструкции по установке, работе с корзиной, управлению аккаунтом и поиску товаров.
 
 ## Разделы документации
-- [Начало работы](./getting_started/installation.md)
-- [Руководство пользователя](./user_guide/account_management.md)
-- [Обзор приложения](./getting_started/app_overview)
-- [Руководство пользователя_корзина](./user_guide/cart_management.md)
+- [Начало работы](documentation/getting_started/installation.md)
+- [Руководство пользователя](documentation/user_guide/account_management.md)
+- [Обзор приложения](documentation/getting_started/app_overview)
+- [Руководство пользователя_корзина](documentation/user_guide/cart_management.md)
 
 
-![Пример экрана приложения](../assets/screenshots/Main.png)
+![Пример экрана приложения](/documentation/assets/screenshots/Main.png)
 
-Перейдите на [сайт проекта](https://example.com) для дополнительной информации.
+Перейдите на [сайт проекта](https://github.com/IMtiltexd/ESHOP_MOB) для дополнительной информации.

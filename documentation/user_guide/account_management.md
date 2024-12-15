@@ -8,3 +8,5 @@
 [![Настройка аккаунта](../assets/screenshots/Profile.png)]
 
 Перейдите к [руководству по корзине](./user_guide/cart_management.md).
+
+[На главную](../../README.md)

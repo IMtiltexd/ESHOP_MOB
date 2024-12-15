@@ -12,4 +12,5 @@
 
 ![Пример корзины](../assets/screenshots/Cart.png)
 
+[На главную](../../README.md)
 
